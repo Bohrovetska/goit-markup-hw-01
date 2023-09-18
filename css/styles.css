@@ -56,8 +56,8 @@ text-decoration: none;
 .header-menu {
 
 }
-.hover-focus:hover,
-.hover-focus:focus {color: #404bbf;}
+.hero-ord-bth:hover,
+.hero-ord-bth:focus {color: #404bbf;}
 .header-menu-link {
     color: #2E2F42;;
     
@@ -83,6 +83,8 @@ text-decoration: none;
         line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
+        font-family: "Roboto", sans-serif;
+        cursor: pointer;
         }
 
 .hero { 
@@ -118,6 +120,9 @@ background: #2E2F42;}
     text-align: left;
    }
 
+   .team {background-color: #F4F4FD}
+   team-list list {background-color: #FFFFFF}
+
    .team-title {
     color: #2E2F42; ;
         font-family: Roboto;
@@ -125,6 +130,8 @@ background: #2E2F42;}
         font-weight: 700;
         line-height: 1.11;
         letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
         
    }
     .team-subtitle  {
@@ -152,6 +159,7 @@ letter-spacing: 0.02em;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center
     }
 
 .made-subtitle { color: #2E2F42;
