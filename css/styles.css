@@ -40,8 +40,8 @@ a {text-decoration: none;}
 .header-menu-link:focus {color: #404bbf; }
 .header-cont {font-style: normal;}
 
-.header-cont-list:hover,
-.header-cont-list:focus {color: #404bbf;}
+.header-cont-iteam-link:hover,
+.header-cont-iteam-link:focus {color: #404bbf;}
 
 .header-menu-link {
     color: #2E2F42;;
