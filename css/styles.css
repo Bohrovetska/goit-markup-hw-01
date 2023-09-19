@@ -35,7 +35,12 @@ a {text-decoration: none;}
 
 }
 .hero-ord-bth:hover,
-.hero-ord-bth:focus {background-color:#404bbf;}
+.hero-ord-bth:focus {background-color:#404bbf;
+    color: #FFFFFF;}
+
+
+
+
 .header-menu-link:hover,
 .header-menu-link:focus {color: #404bbf; }
 .header-cont {font-style: normal;}
